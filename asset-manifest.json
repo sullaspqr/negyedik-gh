@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/negyedik-gh/static/css/main.7ff35193.css",
+    "main.js": "/negyedik-gh/static/js/main.8150aab9.js",
+    "index.html": "/negyedik-gh/index.html",
+    "main.7ff35193.css.map": "/negyedik-gh/static/css/main.7ff35193.css.map",
+    "main.8150aab9.js.map": "/negyedik-gh/static/js/main.8150aab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff35193.css",
+    "static/js/main.8150aab9.js"
+  ]
+}
